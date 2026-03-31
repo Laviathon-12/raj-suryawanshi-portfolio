@@ -1,7 +1,7 @@
 import { motion } from 'motion/react';
 import { FileText, ChevronDown } from 'lucide-react';
 import resumeData from '../data/resume.json';
-import { generateResumePDF } from '../utils/generatePDF';
+//import { generateResumePDF } from '../utils/generatePDF';
 
 export default function Hero() {
   const scrollToExperience = () => {
@@ -56,13 +56,14 @@ export default function Hero() {
             View Experience
             <ChevronDown size={18} />
           </button>
-          <button 
-            onClick={() => generateResumePDF()}
+          <a 
+            href="resume.pdf"
+            download="Raj_Suryawanshi_Resume.pdf"
             className="px-8 py-4 rounded-lg border border-white/20 text-white font-semibold hover:bg-white/5 transition-colors flex items-center justify-center gap-2"
           >
             <FileText size={18} />
             Download Resume
-          </button>
+          </a>
         </div>
       </motion.div>
 
