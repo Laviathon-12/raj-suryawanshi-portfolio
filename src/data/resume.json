@@ -1,0 +1,145 @@
+{
+  "basics": {
+    "name": "Raj Suryawanshi",
+    "image": "/profile",
+    "title": "Red Team Analyst | Penetration Tester | Ethical Hacker",
+    "summary": "Certified Red Team Analyst (CRTA), Certified Ethical Hacker (CEH), and Certified Red Hat Enterprise Linux (CRHEL) professional with hands-on experience in Red Team operations, web application penetration testing, vulnerability assessment, and exploitation of security weaknesses in live production environments. Strong expertise in Active Directory attacks, privilege escalation, post-exploitation, and OWASP Top 10 vulnerability assessment. Skilled in conducting full VAPT lifecycle including reconnaissance, exploitation, reporting, and remediation guidance aligned with MITRE ATT&CK framework.",
+    "location": "Nashik / Sakri, Dhule, Maharashtra, India",
+    "email": "suryawanshi.raj1209@gmail.com",
+    "phone": "+91 9156687279",
+    "links": {
+      "LinkedIn": "https://www.linkedin.com/in/rajsuryawanshi"
+    }
+  },
+  "experience": [
+    {
+      "company": "WhiteBand Associates LLP",
+      "role": "Linux trainer",
+      "dates": "mar 2025 - apr 2026",
+      "location": "Nashik, Maharashtra, India",
+      "bullets": []
+    },
+    {
+      "company": "WhiteBand Associates LLP",
+      "role": "Web Application Security Tester",
+      "dates": "mar 2025 - apr 2026",
+      "location": "India",
+      "bullets": [
+        "Conducted web application penetration testing on live production and staging environments.",
+        "Identified vulnerabilities including SQL Injection, Cross-Site Scripting (XSS), IDOR, LFI, and misconfigurations.",
+        "Performed manual testing and automated vulnerability scanning.",
+        "Conducted authentication and authorization testing.",
+        "Provided detailed vulnerability reports including CVSS scoring and remediation steps.",
+        "Simulated attacker techniques aligned with MITRE ATT&CK framework."
+      ]
+    },
+    {
+      "company": "Independent / Freelance",
+      "role": "Red Team Experience",
+      "dates": "dec 2025",
+      "location": "India",
+      "bullets": [
+        "Performed Active Directory enumeration using BloodHound.",
+        "Executed credential harvesting and password spraying attacks.",
+        "Conducted local and remote privilege escalation.",
+        "Simulated lateral movement using Pass-the-Hash techniques.",
+        "Tested persistence mechanisms in controlled lab environments.",
+        "Conducted post-exploitation data enumeration."
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Critical Vulnerabilities",
+      "context": "Successfully identified critical security vulnerabilities in live applications."
+    },
+    {
+      "title": "Efficiency Improvement",
+      "context": "Improved vulnerability detection efficiency through custom automation scripts."
+    },
+    {
+      "title": "Real-world Simulation",
+      "context": "Practiced real-world attack simulation through Hack The Box and TryHackMe labs."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Domain Vulnerability Scanner (Automated Security Tool)",
+      "stack": ["Python"],
+      "bullets": [
+        "Designed and developed a Python-based domain vulnerability scanning tool.",
+        "Integrated subdomain enumeration, port scanning, and HTTP response analysis.",
+        "Automated detection of OWASP Top 10 vulnerabilities.",
+        "Implemented severity classification (Low, Medium, High).",
+        "Reduced manual reconnaissance time by 60%.",
+        "Generated structured vulnerability reports for remediation."
+      ],
+      "links": []
+    }
+  ],
+  "skills": [
+    {
+      "group": "Penetration Testing & Red Teaming",
+      "items": ["Red Team Operations", "Web Application Penetration Testing", "Network Penetration Testing", "Active Directory Exploitation", "Privilege Escalation (Linux & Windows)", "Lateral Movement", "Post-Exploitation", "OSINT", "Vulnerability Assessment and Penetration Testing (VAPT)"]
+    },
+    {
+      "group": "Security Tools",
+      "items": ["Nmap", "Burp Suite", "Metasploit Framework", "BloodHound", "Mimikatz", "CrackMapExec", "Hydra", "Nikto", "Gobuster", "FFUF", "SQLmap", "Wireshark"]
+    },
+    {
+      "group": "Security Concepts",
+      "items": ["OWASP Top 10", "MITRE ATT&CK", "CVE Analysis", "Exploit Development (Basic)", "RCE", "LFI", "RFI", "SSRF", "IDOR", "SQL Injection", "XSS", "Authentication Bypass"]
+    },
+    {
+      "group": "Operating Systems",
+      "items": ["Kali Linux", "Parrot OS", "Red Hat Enterprise Linux", "Windows Server"]
+    },
+    {
+      "group": "Programming & Scripting",
+      "items": ["Python", "Bash", "Basic Automation Scripting"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KARMAVEER VASANTARAO NAIK",
+      "degree": "Bachelor of Engineering - BE, Computer Engineering",
+      "dates": "March 2022 - March 2024"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Red Team Analyst (CRTA)",
+      "issuer": "CyberWarfare Labs",
+      "date": "Feb 2026",
+      "id": "CRTA-697fed97fbb79ac75857c40d",
+      "image": "/crta-certificate"
+    },
+    {
+      "name": "Certified Ethical Hacker (CEH)",
+      "issuer": "EC-Council",
+      "date": "mar 2026",
+      "id": "ECC2914560738",
+      "image": "/CEH"
+    },
+    {
+      "name": "Certified Red Hat Enterprise Linux (CRHEL)",
+      "issuer": "Red Hat",
+      "date": "",
+      "id": ""
+    },
+    {
+      "name": "Certified Cybersecurity Educator Professional (CCEP)",
+      "issuer": "Red Team Leaders",
+      "date": "Jan 2026",
+      "id": "a69586b771c2e292",
+      "image": "/CCEP"
+    }
+  ],
+  "awards": [],
+  "extra": [
+    "Training & Lab Experience: Hack The Box – Red Team Labs",
+    "Training & Lab Experience: TryHackMe – Red Team Path",
+    "Training & Lab Experience: Active Directory Attack Simulation Labs",
+    "Training & Lab Experience: CVE Exploitation Practice"
+  ]
+}
