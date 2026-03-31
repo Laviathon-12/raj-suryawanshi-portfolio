@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Raj Suryawanshi",
-    "image": "/profile",
+    "image": "/profile.jpg",
     "title": "Red Team Analyst | Penetration Tester | Ethical Hacker",
     "summary": "Certified Red Team Analyst (CRTA), Certified Ethical Hacker (CEH), and Certified Red Hat Enterprise Linux (CRHEL) professional with hands-on experience in Red Team operations, web application penetration testing, vulnerability assessment, and exploitation of security weaknesses in live production environments. Strong expertise in Active Directory attacks, privilege escalation, post-exploitation, and OWASP Top 10 vulnerability assessment. Skilled in conducting full VAPT lifecycle including reconnaissance, exploitation, reporting, and remediation guidance aligned with MITRE ATT&CK framework.",
     "location": "Nashik / Sakri, Dhule, Maharashtra, India",
@@ -112,14 +112,14 @@
       "issuer": "CyberWarfare Labs",
       "date": "Feb 2026",
       "id": "CRTA-697fed97fbb79ac75857c40d",
-      "image": "/crta-certificate"
+      "image": "/crta-certificate.png"
     },
     {
       "name": "Certified Ethical Hacker (CEH)",
       "issuer": "EC-Council",
       "date": "mar 2026",
       "id": "ECC2914560738",
-      "image": "/CEH"
+      "image": "/CEH.jpg"
     },
     {
       "name": "Certified Red Hat Enterprise Linux (CRHEL)",
@@ -132,7 +132,7 @@
       "issuer": "Red Team Leaders",
       "date": "Jan 2026",
       "id": "a69586b771c2e292",
-      "image": "/CCEP"
+      "image": "/CCEP.png"
     }
   ],
   "awards": [],
